@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1066897016827",
+    "firebase_url": "https://login-fire-75b29.firebaseio.com",
+    "project_id": "login-fire-75b29",
+    "storage_bucket": "login-fire-75b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066897016827:android:303a8cdc5edaf578",
+        "android_client_info": {
+          "package_name": "com.inducesmile.loginff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066897016827-nkgp1qisenikd9eftf75of37kodpernr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.loginff",
+            "certificate_hash": "be338b00c5cdd0037509758c42a6077662d628c8"
+          }
+        },
+        {
+          "client_id": "1066897016827-drive9r3k5i1ksfqh9pjq00g1o50nmet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.loginff",
+            "certificate_hash": "7c888806b061df6d44f2f18fd589b08a5e141c35"
+          }
+        },
+        {
+          "client_id": "1066897016827-0e8gahns2nq3vv2f7cmqm7pjb0und4v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCnIorw7Yj6G5UbwUi5UIzAz1Ju8P8bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066897016827-0e8gahns2nq3vv2f7cmqm7pjb0und4v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066897016827:android:3e75725181d7ca93",
+        "android_client_info": {
+          "package_name": "com.inducesmile.loginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066897016827-kb6lrdaoc2d0grbd9rorng09nql4q9n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.loginfire",
+            "certificate_hash": "7c888806b061df6d44f2f18fd589b08a5e141c35"
+          }
+        },
+        {
+          "client_id": "1066897016827-0e8gahns2nq3vv2f7cmqm7pjb0und4v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCnIorw7Yj6G5UbwUi5UIzAz1Ju8P8bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066897016827-0e8gahns2nq3vv2f7cmqm7pjb0und4v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
